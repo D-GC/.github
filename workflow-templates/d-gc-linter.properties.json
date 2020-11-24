@@ -1,7 +1,7 @@
 {
     "name": "D-GC Organization Workflow",
     "description": "D-GC Organization CI workflow template.",
-    "iconName": "high_brightness",
+    "iconName": "icon",
     "categories": [
         "HTML+PHP:",
         "Shell",
