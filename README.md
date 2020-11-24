@@ -1,0 +1,2 @@
+# .github
+Organizations workflow templates
