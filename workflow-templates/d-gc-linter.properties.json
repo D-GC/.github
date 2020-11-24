@@ -1,5 +1,16 @@
 {
     "name": "D-GC Organization Workflow",
     "description": "D-GC Organization CI workflow template.",
-    "iconName": "high_brightness"
+    "iconName": "high_brightness",
+    "categories": [
+        "HTML+PHP:",
+        "Shell",
+        "JSON",
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
 }
